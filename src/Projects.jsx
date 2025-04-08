@@ -1,3 +1,4 @@
+// Functional component that renders a list of my Projects
 function Projects() {
     return (
       <div>

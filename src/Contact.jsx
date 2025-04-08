@@ -1,3 +1,4 @@
+// Functional component that renders the Contact information
 function Contact() {
     return (
       <div>

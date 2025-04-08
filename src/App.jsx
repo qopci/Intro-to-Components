@@ -7,9 +7,9 @@ function App() {
   return (
     <>
       <h1>Profile</h1>
-      <AboutMe />
-      <Projects />
-      <Contact />
+      <AboutMe /> {/* AboutMe component */}
+      <Projects /> {/* Projects component */}
+      <Contact /> {/* Contact component */}
     </>
   )
 }

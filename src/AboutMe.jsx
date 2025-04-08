@@ -1,3 +1,4 @@
+// Functional component that renders the About section
 function About() {
     return (
       <div>
